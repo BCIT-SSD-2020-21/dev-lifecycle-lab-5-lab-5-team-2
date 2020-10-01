@@ -36,3 +36,12 @@ Android app can be used to navigate the map as well as directions in the mall an
 - Business case: tracking for advertising
 - In-App Promotions/Coupons
 
+# Use Case Diagram
+
+![](https://i.imgur.com/RZWZQ16.jpg)
+
+
+# Hifi Prototype
+
+# Entity Relationship Diagram
+
