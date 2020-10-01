@@ -38,10 +38,13 @@ Android app can be used to navigate the map as well as directions in the mall an
 
 # Use Case Diagram
 
-![](https://i.imgur.com/RZWZQ16.jpg)
+![](https://i.imgur.com/cznONAz.jpg)
+
 
 
 # Hifi Prototype
 
 # Entity Relationship Diagram
+
+![](https://i.imgur.com/isJWDKG.png)
 
