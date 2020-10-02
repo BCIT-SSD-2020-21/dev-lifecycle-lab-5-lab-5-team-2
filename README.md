@@ -44,6 +44,9 @@ Android app can be used to navigate the map as well as directions in the mall an
 
 # Hifi Prototype
 
+![](https://i.imgur.com/sqdpung.png)
+
+
 # Entity Relationship Diagram
 
 ![](https://i.imgur.com/isJWDKG.png)
